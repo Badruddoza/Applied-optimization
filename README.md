@@ -1,2 +1,2 @@
-# profit-max
-Maximize profit subject to constraints
+# profit-maximization
+Numerical optimization of profit function to find optimal level of irrigation
