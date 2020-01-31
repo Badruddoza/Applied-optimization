@@ -1,0 +1,8 @@
+for(i in 1:2){
+  assign(paste("p",i,sep=""),rnorm(1))
+}
+for(v in 1:i){
+  print(noquote(paste0("p",i)))
+}
+noquote(paste0("p",i))
+print(p2)
